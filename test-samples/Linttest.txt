@@ -1,0 +1,16 @@
+
+--- Module:   D:\Malibu25\m25_git\malibu25_fw\Bootloader\main.c (C)
+#... x)
+^
+"D:\Malibu25\m25_git\malibu25_fw\Bootloader\main.c:0: Note 9051: macro"
+
+"C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\inc\c\DLib_Product_string.h:57: Error 14: Symbol 'memcpy(void *, const void *, size_t)' previously defined (line 40, file C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\inc\c\string.h, module D:\Malibu25\m25_git\malibu25_fw\Bootloader\main.c) [MISRA 2012 Rule 5.7, required], [MISRA 2012 Rule 8.6, required]"
+
+"C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\inc\c\stdlib.h:181: Warning 586: keyword 'restrict' is deprecated. [MISRA 2012 Rule 8.14, required]"
+
+"D:\Malibu25\m25_git\malibu25_fw\Bootloader\PCLint\iar-macros.h:60: Info 830: Location cited in prior message"
+
+"iar-macros.h:60: Info 830: Location cited in prior message"
+
+--- Global Wrap-up
+":0: Info 765: external 'gTimerCfg' (line 40, file D:\Malibu25\m25_git\malibu25_fw\ROMApplication\Source\Timer\Timer.c) could be made static [MISRA 2012 Rule 8.7, advisory]"
